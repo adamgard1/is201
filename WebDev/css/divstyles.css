@@ -1,0 +1,35 @@
+/*positioning styles*/
+.common{
+    position:absolute;
+    border:  5px solid gold;
+    background-color: cornsilk;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background-color:rgba(194, 100, 100, 0.935);
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+
+    
+}
+.content{
+    top: 75px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    text-align: center;
+}
+.nav{
+    position: relative;
+    float: right;     
+}

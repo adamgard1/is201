@@ -1,0 +1,32 @@
+body{
+    background-color: blanchedalmond;
+    color:darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h5{
+    text-align:center;
+}
+a{
+    color:cornflowerblue
+}
+a:visited{
+    color: seagreen;
+}
+img{
+    border: 2px solid black;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    margin: auto;
+}
+.rizz{
+    border: 90px dashed orchid;
+    margin: 50px;
+    display: block;
+    margin: auto;
+}
+
